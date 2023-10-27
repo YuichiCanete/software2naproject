@@ -1,0 +1,46 @@
+body{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    background-color: #003B89;
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.loginContainer {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255,.5);
+    width: 40%;
+
+    transform: translate(0,100%);
+}
+
+.titleContainer {
+    width: 50%;
+    transform: translate(0,100%);
+}
+
+.loginButton {
+    
+    color: white;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #004aad;
+
+    display: grid;
+    Justify-items: center;
+}
+
+.loginTextfield {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 0;
+    background-color: rgb(255, 255, 255,.5);
+}
+
